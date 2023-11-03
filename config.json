@@ -1,0 +1,12 @@
+{
+    "databaseURL": "put your mongodb database connect url here",
+    "token": "Put your discord bot's token here",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+      }
+}
