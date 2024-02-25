@@ -1,0 +1,13 @@
+{
+    "databaseURL": "mongodb conenction string",
+    "token": "dc bot token",
+    "open_ai": "openai api code",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+      }
+}
