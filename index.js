@@ -44,4 +44,9 @@ process.on('uncaughtExceptionMonitor', (err, origin) =>{
 console.log("Anticrash has been loaded.")
 
 
+
 client.login(client.config.token)
+
+client.on('ready', () => {
+  console.log("Báttya készen van a kattra!");
+});
